@@ -4,8 +4,23 @@
 #include <fstream>
 #include "hpps/Animal.h"
 #include "hpps/Bear.h"
+#include "hpps/Aligator.h"
+#include "hpps/Armour.h"
+#include "hpps/Deer.h"
+#include "hpps/Chicken.h"
+#include "hpps/Cow.h"
+#include "hpps/Bow.h"
+#include "hpps/Citizen.h"
+#include "hpps/Wolf.h"
+#include "hpps/Thief.h"
 #include "hpps/Oruzje.h"
+#include "hpps/Eagle.h"
+#include "hpps/Gun.h"
+#include "hpps/Realic.h"
+#include "hpps/Npc.h"
+#include "hpps/Item.h"
 #include "hpps/Sword.h"
+#include "hpps/Snake.h"
 
 int windowW = 1920;
 int windowH = 1080;
